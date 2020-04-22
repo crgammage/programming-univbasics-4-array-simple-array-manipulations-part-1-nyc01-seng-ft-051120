@@ -9,6 +9,8 @@ def using_unshift(arrray, string)
 end
 
 def using_pop(array)
-  array.pop
-  return array
+  less = array.pop
+  return less
 end
+
+
