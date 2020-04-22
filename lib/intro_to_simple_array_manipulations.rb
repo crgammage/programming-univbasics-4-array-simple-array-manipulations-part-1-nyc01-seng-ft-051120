@@ -17,3 +17,13 @@ def pop_with_args(array)
   less = array.pop(2)
   return less
 end
+
+def using_shift(array)
+  less = array.shift
+  return less
+end
+
+def shift_with_args(array)
+  array.shift(2)
+  return array
+end
