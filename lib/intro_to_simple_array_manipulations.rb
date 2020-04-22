@@ -12,5 +12,3 @@ def using_pop(array)
   less = array.pop
   return less
 end
-
-
